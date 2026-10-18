@@ -1,0 +1,6 @@
+id_a,id_b,name_a,name_b,email_a,email_b,phone_a,phone_b,city_a,city_b,name_similarity,email_match,phone_match,confidence,match_status
+1,101,harshith r,r harshith,harshith@gmail.com,harshith@gmail.com,9876543210,9876543210,kochi,cochin,0.8,1.0,1.0,0.96,MATCH
+2,102,priya sharma,priya sharma,priya@gmail.com,priya@gmail.com,9876543211,9876543211,chennai,chennai,1.0,1.0,1.0,1.0,MATCH
+3,103,rahul kumar,rahul kumer,rahul@gmail.com,rahul.kumar@gmail.com,9876543212,9876543212,bangalore,bengaluru,0.9090909090909091,0.0,1.0,0.582,REVIEW
+4,104,ananya rao,ananya rao,ananya@gmail.com,ananya@gmail.com,9876543213,9876543213,hyderabad,hyderabad,1.0,1.0,1.0,1.0,MATCH
+5,105,arjun das,arjun das,arjun@gmail.com,arjun.das@gmail.com,9876543214,9876543214,kochi,kochi,1.0,0.0,1.0,0.6,MATCH
